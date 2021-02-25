@@ -1,6 +1,9 @@
 # dev_IntelXeonPHI
 Development and Notes with Intel Xeon PHI 
 
+#### Tensorflow for Intel oneDNN
+- [Tensorlfow* Serving and oneDNN on Linux](https://software.intel.com/content/www/us/en/develop/articles/containers/dl-optimizations-for-tensorflow-serving.html)
+
 #### Drivers for Coprocessors x100 (v1.0)
 [https://downloadcenter.intel.com/download/22864/Intel-Xeon-Phi-Coprocessors](https://downloadcenter.intel.com/download/22864/Intel-Xeon-Phi-Coprocessors) <br/>
 
