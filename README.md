@@ -3,6 +3,7 @@ Development and Notes with Intel Xeon PHI
 
 #### Tensorflow for Intel oneDNN
 - [Tensorlfow* Serving and oneDNN on Linux](https://software.intel.com/content/www/us/en/develop/articles/containers/dl-optimizations-for-tensorflow-serving.html)
+- [oneAPI Github](https://github.com/oneapi-src/oneDNN) - formerly known as Intel Math Kernel Library MKL-DNN
 
 #### Drivers for Coprocessors x100 (v1.0)
 [https://downloadcenter.intel.com/download/22864/Intel-Xeon-Phi-Coprocessors](https://downloadcenter.intel.com/download/22864/Intel-Xeon-Phi-Coprocessors) <br/>
